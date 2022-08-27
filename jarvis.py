@@ -204,7 +204,7 @@ if __name__ == "__main__":
             Speak( "This never gets old boss." )
 
         if "who are you" in query:
-            Speak( "I am Friday, a virtual assistant created by master Sagar Paul." )
+            Speak( "I am Jarvis, a virtual assistant created by Abhay Kumar." )
             Speak( ("My source code is written in python.") )
             Speak( "Since i am in my initial stages of development, my capabilities as of now,  are quite limited." )
             Speak( "But i will be glad to serve you in every way i can, within the limits of my capabilities boss." )
